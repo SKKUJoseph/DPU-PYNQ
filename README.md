@@ -25,8 +25,8 @@ DPU-PYNQ is available for a wide range of boards and devices, some of which may 
 | TySOM-3A-ZU19EG | B4096  | 2  |   |
 | TySOM-3-ZU7EV   | B4096  | 2  |   |
 | Ultra96v1       | B1600  | 1  |   |
-| UltraZed-EG     | B4096  | 1  | Yes  |
-| ZCU102          | B4096  | 2  |   |
+| UltraZed-EG     | B4096  | 1  |   |
+| ZCU102          | B4096  | 2  | Yes  |
 | ZCU106          | B4096  | 2  |   |
 | ZCU1285         | B4096  | 2  |   |
 | ZCU216          | B4096  | 2  | Yes  |
